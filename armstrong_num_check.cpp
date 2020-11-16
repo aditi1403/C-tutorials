@@ -3,8 +3,6 @@
 // cubed and added gives the same number
 // ex. 153(1+125+27=153)
 
-// ERROR IN THE PROGRAM !!!!
-
 #include<iostream>
 #include<math.h>
 using namespace std;
