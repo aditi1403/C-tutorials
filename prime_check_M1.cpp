@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     int n;
-    cout<<"Enter the number you want to teast:"<<endl;
+    cout<<"Enter the number you want to test:"<<endl;
     cin>>n;
 
     bool flag=0;
