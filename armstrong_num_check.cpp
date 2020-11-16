@@ -19,7 +19,7 @@ int main(){
     while (n>0)
     {
         int lastdigit=n%10;
-        sum += pow(lastdigit,3);
+        sum += float(pow(lastdigit,3));
         n=n/10;
     }
     if (sum==originaln)
