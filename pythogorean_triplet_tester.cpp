@@ -36,6 +36,7 @@ bool check(int x, int y, int z)
 int32_t main()
 {
     int x,y,z;
+    cout<<"This is an pythagorean triplet tester:"<<endl;
     cout<<"Enter the value of x:"<<endl;
     cin>>x;
     cout<<"Enter the value of y:"<<endl;
