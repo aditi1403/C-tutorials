@@ -5,6 +5,7 @@ using namespace std;
 
 int main(){
     int n, m;
+    cout<<"This is a factorial calculator!!"<<endl;
     cout<<"Enter the you first number:"<<endl;
     cin>>n;
     cout<<"Enter the second number:"<<endl;
