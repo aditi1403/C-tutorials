@@ -4,6 +4,7 @@ using namespace std;
 
 int main(){
     int n;
+    cout<<"This is a prime number tester!!"<<endl;
     cout<<"Enter the number you want to test:"<<endl;
     cin>>n;
 
