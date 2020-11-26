@@ -1,4 +1,4 @@
-// PROB_6-->ALL POSSIBLEE SUBARRAY 
+// PROB_6-->ALL POSSIBLE SUBARRAY 
 
 #include<iostream>
 using namespace std;
@@ -20,6 +20,7 @@ int main()
         cout<<arr[i]<<" ";
     }
     cout<<endl;
+    cout<<"Your possible subarrays are as follows:"<<endl;
     for (int i = 0; i < n; i++)
     {
         for (int j = i; j < n; j++)
