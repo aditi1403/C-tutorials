@@ -54,7 +54,7 @@ int main(){
         j++;
     }
     cout<<endl;
-    cout<<"THe ans is as follows:"<<endl;
+    cout<<"The ans is as follows:"<<endl;
     cout<<st<<" "<<en<<endl;
     return 0;
 }
