@@ -46,6 +46,7 @@ int main(){
         }
         mx=max(mx,arr[i]);
     }
+    cout<<"THe number of record breaking days are as follows:"<<endl;
     cout<<ans<<endl;
     return 0;
 }
