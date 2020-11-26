@@ -13,9 +13,6 @@ int main(){
     int n;
     cout<<"Enter the value of n:"<<endl;
     cin>>n;
-    int s;
-    cout<<"Enter the value of s:"<<endl;
-    cin>>s;
     int arr[n];
     cout<<"Enter the elements of array:"<<endl;
     for (int i = 0; i < n; i++)
@@ -27,6 +24,10 @@ int main(){
     {
         cout<<arr[i]<<" ";
     }
+    cout<<endl;
+    int s;
+    cout<<"Enter the value of s:"<<endl;
+    cin>>s;
     int i=0,j=0,st=-1,en=-1, sum=0;
     while (j<n && sum+arr[j]<=s)
     {
