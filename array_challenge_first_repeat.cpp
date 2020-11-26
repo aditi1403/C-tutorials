@@ -3,6 +3,8 @@
 the array of integers, i.e., an element that occurs more than once and whose index
 of first occurence is smallest.*/
 
+// ERROR IN RUNNING FILE :(
+
 #include<iostream>
 #include<climits>
 using namespace std;
