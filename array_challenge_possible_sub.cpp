@@ -14,7 +14,7 @@ int main()
     {
         cin>>arr[i];
     }
-    cout<<"Your array is as follws:"<<endl;
+    cout<<"Your array is as follows:"<<endl;
     for (int i = 0; i < n; i++)
     {
         cout<<arr[i]<<" ";
