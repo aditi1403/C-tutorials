@@ -1,3 +1,8 @@
+// 2-DIMENSIONAL ARRAY
+/* Will be used in:
+    1.Graphs
+    2.Dynamic programming */
+
 // 2-D_CHALLENGES(#2)--> MATRIX MULTIPLICATION
 /* will help in topics like-->MATIRX EXPONENTIATION
     Problem:
