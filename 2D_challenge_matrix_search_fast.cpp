@@ -17,9 +17,9 @@ using namespace std;
 
 int main(){
     int n,m;
-    cout<<"Enter the value of n:"<<endl;
+    cout<<"Enter the value of n(rows):"<<endl;
     cin>>n;
-    cout<<"Enter the value of m:"<<endl;
+    cout<<"Enter the value of m(columns):"<<endl;
     cin>>m;
     int target;
     cout<<"Enter the value of target:"<<endl;
