@@ -24,7 +24,7 @@ int main(){
     cout<<"Enter the value of m:"<<endl;
     cin>>m;
     int A[n][m];
-    cout<<"Enter the elements of the matrix:"<<endl;
+    cout<<"Enter the elements of the row of the matrix:"<<endl;
     for (int i = 0; i < n; i++)
     {
         for (int j = 0; j < m; j++)
