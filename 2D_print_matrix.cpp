@@ -10,9 +10,9 @@
 
  int main(){
      int n,m;
-     cout<<"Enter the value of n:"<<endl;
+     cout<<"Enter the value of n(rows):"<<endl;
      cin>>n;
-     cout<<"Enter the value of m:"<<endl;
+     cout<<"Enter the value of m(columns):"<<endl;
      cin>>m;
      int arr[n][m];
      cout<<"Enter the elements of each row of the matrix:"<<endl;
@@ -23,7 +23,7 @@
              cin>>arr[i][j];
          }
      }
-     cout<<"Matrix is:"<<endl;
+     cout<<"Your matrix is as follows:"<<endl;
      for (int i = 0; i < n; i++)
      {
          for (int j = 0; j < m; j++)
