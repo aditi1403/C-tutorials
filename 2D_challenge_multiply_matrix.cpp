@@ -59,7 +59,7 @@ int main()
             }
         }
     }
-    cout<<"Your multiplication ans:"<<endl;
+    cout<<"The ans we get on multiplying both these matrices is as follows:"<<endl;
     for (int i = 0; i < n1; i++)
     {
         for (int j = 0; j < n3; j++)
