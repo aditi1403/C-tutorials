@@ -18,7 +18,7 @@ using namespace std;
 int main()
 {
     string str;
-    cout<<"Enter the word:"<<endl;
+    cout<<"Enter the word(lower case):"<<endl;
     getline(cin,str);
 
 
