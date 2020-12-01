@@ -1,5 +1,5 @@
 // Q. Write a program to check if a given number is power of 2
-/* using bit manipulation*/
+/* Note: Solve this question using bit manipulation*/
 
 #include<iostream>
 using namespace std;
