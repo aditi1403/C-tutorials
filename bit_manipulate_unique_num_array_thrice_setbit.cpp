@@ -1,7 +1,7 @@
 // /* Q. Write a program to find a unique numbers in an array where
 //  all numbers except one, are present thrice
 // {1,3,2,3,4,2,1,1,3,2}*/
-/* using bit manipultion */
+/* Note: Solve this question using bit manipultion */
 
 #include<iostream>
 using namespace std;
