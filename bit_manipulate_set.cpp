@@ -1,4 +1,5 @@
 // BIT MANIPULATION-SET BIT
+/* This function tells us how to use set bit function*/
 
 #include<iostream>
 using namespace std;
