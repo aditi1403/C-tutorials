@@ -1,6 +1,6 @@
 /* Q. Write a program to count the number of ones in binary
  representation of a number*/
- /*using bit manipulation*/
+ /*Note: Solve this question using bit manipulation*/
 
  #include<iostream>
  using namespace std;
