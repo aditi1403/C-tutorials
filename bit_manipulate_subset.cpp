@@ -1,5 +1,5 @@
 /* Q. Write a program to generate all possible subsets of a set {a,b,c}*/
- /*using bit manipulation*/
+ /* Note: Solve this question using bit manipulation*/
 
  #include<iostream>
  using namespace std;
