@@ -1,4 +1,5 @@
 // BIT MANIPULATION-CLEAR BIT
+/*This function tells us the usage of clear bit function.*/
 
 #include<iostream>
 using namespace std;
