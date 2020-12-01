@@ -2,7 +2,7 @@
 where all numbers except one, are present twice
 {2,4,6,3,4,6,2}*/
 
-/* using bit manipulation*/
+/*Note: Solve this question using bit manipulation*/
 
 #include<iostream>
 using namespace std;
