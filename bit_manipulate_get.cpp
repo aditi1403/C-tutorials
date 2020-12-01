@@ -1,4 +1,5 @@
 // BIT MANIPULATION--> GET BIT
+/*This function tells us how to use get bit function*/
 
 #include<iostream>
 using namespace std;
