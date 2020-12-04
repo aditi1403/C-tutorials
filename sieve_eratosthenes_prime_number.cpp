@@ -1,4 +1,7 @@
 // SIEVE OF ERATOSTHENES
+
+/* ERROR IN FILE */
+
 #include<iostream>
 using namespace std;
 
