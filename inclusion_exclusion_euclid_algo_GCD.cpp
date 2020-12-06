@@ -1,4 +1,5 @@
 //EUCLID ALGORITH TO FIND GCD
+/*this file tells us how euclid's algorithm works*/
 #include<iostream>
 using namespace std;
 
