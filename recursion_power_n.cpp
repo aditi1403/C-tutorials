@@ -1,4 +1,5 @@
 // RECURSION-RAISED TO THE POWER N
+/*this program tells us the value of n^p*/
 #include<iostream>
 using namespace std;
 
